@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\HidingBaseMethods\HidingBaseMethods\bin\Debug\HidingBaseMethods.exe.config
+C:\Users\David\source\repos\HidingBaseMethods\HidingBaseMethods\bin\Debug\HidingBaseMethods.exe
+C:\Users\David\source\repos\HidingBaseMethods\HidingBaseMethods\bin\Debug\HidingBaseMethods.pdb
+C:\Users\David\source\repos\HidingBaseMethods\HidingBaseMethods\obj\Debug\HidingBaseMethods.csprojAssemblyReference.cache
+C:\Users\David\source\repos\HidingBaseMethods\HidingBaseMethods\obj\Debug\HidingBaseMethods.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\HidingBaseMethods\HidingBaseMethods\obj\Debug\HidingBaseMethods.exe
+C:\Users\David\source\repos\HidingBaseMethods\HidingBaseMethods\obj\Debug\HidingBaseMethods.pdb

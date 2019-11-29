@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidingBaseMethods", "HidingBaseMethods\HidingBaseMethods.csproj", "{DBCC4C0E-E4B9-4A95-B060-617C0068A24D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCC4C0E-E4B9-4A95-B060-617C0068A24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCC4C0E-E4B9-4A95-B060-617C0068A24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCC4C0E-E4B9-4A95-B060-617C0068A24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCC4C0E-E4B9-4A95-B060-617C0068A24D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F2426C9-322E-4971-888B-4F875303D5F5}
+	EndGlobalSection
+EndGlobal

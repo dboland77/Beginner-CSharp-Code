@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\UserMessages\UserMessages\bin\Debug\UserMessages.exe.config
+C:\Users\David\source\repos\UserMessages\UserMessages\bin\Debug\UserMessages.exe
+C:\Users\David\source\repos\UserMessages\UserMessages\bin\Debug\UserMessages.pdb
+C:\Users\David\source\repos\UserMessages\UserMessages\obj\Debug\UserMessages.Form1.resources
+C:\Users\David\source\repos\UserMessages\UserMessages\obj\Debug\UserMessages.Properties.Resources.resources
+C:\Users\David\source\repos\UserMessages\UserMessages\obj\Debug\UserMessages.csproj.GenerateResource.cache
+C:\Users\David\source\repos\UserMessages\UserMessages\obj\Debug\UserMessages.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\UserMessages\UserMessages\obj\Debug\UserMessages.exe
+C:\Users\David\source\repos\UserMessages\UserMessages\obj\Debug\UserMessages.pdb
+C:\Users\David\source\repos\UserMessages\UserMessages\obj\Debug\UserMessages.csprojAssemblyReference.cache

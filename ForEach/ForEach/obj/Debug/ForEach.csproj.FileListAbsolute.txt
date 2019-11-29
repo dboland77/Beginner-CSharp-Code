@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\ForEach\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ForEach\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\David\source\repos\ForEach\ForEach\bin\Debug\ForEach.exe
+C:\Users\David\source\repos\ForEach\ForEach\bin\Debug\ForEach.pdb
+C:\Users\David\source\repos\ForEach\ForEach\obj\Debug\ForEach.exe
+C:\Users\David\source\repos\ForEach\ForEach\obj\Debug\ForEach.pdb

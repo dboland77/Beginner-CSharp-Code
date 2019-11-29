@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe.config
+C:\Users\David\source\repos\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+C:\Users\David\source\repos\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\David\source\repos\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+C:\Users\David\source\repos\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb

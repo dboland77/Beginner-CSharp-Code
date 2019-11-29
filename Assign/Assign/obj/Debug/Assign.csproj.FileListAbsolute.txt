@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\Assign\Assign\bin\Debug\Assign.exe.config
+C:\Users\David\source\repos\Assign\Assign\bin\Debug\Assign.exe
+C:\Users\David\source\repos\Assign\Assign\bin\Debug\Assign.pdb
+C:\Users\David\source\repos\Assign\Assign\obj\Debug\Assign.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Assign\Assign\obj\Debug\Assign.exe
+C:\Users\David\source\repos\Assign\Assign\obj\Debug\Assign.pdb

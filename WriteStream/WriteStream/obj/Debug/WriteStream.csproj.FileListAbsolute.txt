@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\WriteStream\WriteStream\obj\Debug\WriteStream.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\WriteStream\WriteStream\bin\Debug\WriteStream.exe.config
+C:\Users\David\source\repos\WriteStream\WriteStream\bin\Debug\WriteStream.exe
+C:\Users\David\source\repos\WriteStream\WriteStream\bin\Debug\WriteStream.pdb
+C:\Users\David\source\repos\WriteStream\WriteStream\obj\Debug\WriteStream.exe
+C:\Users\David\source\repos\WriteStream\WriteStream\obj\Debug\WriteStream.pdb
+C:\Users\David\source\repos\WriteStream\WriteStream\obj\Debug\WriteStream.csprojAssemblyReference.cache

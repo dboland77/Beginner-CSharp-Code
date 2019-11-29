@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\Overload\Overload\bin\Debug\Overload.exe.config
+C:\Users\David\source\repos\Overload\Overload\bin\Debug\Overload.exe
+C:\Users\David\source\repos\Overload\Overload\bin\Debug\Overload.pdb
+C:\Users\David\source\repos\Overload\Overload\obj\Debug\Overload.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Overload\Overload\obj\Debug\Overload.exe
+C:\Users\David\source\repos\Overload\Overload\obj\Debug\Overload.pdb

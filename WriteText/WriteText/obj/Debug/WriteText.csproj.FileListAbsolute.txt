@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\WriteText\WriteText\obj\Debug\WriteText.csprojAssemblyReference.cache
+C:\Users\David\source\repos\WriteText\WriteText\obj\Debug\WriteText.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\WriteText\WriteText\bin\Debug\WriteText.exe.config
+C:\Users\David\source\repos\WriteText\WriteText\bin\Debug\WriteText.exe
+C:\Users\David\source\repos\WriteText\WriteText\bin\Debug\WriteText.pdb
+C:\Users\David\source\repos\WriteText\WriteText\obj\Debug\WriteText.exe
+C:\Users\David\source\repos\WriteText\WriteText\obj\Debug\WriteText.pdb

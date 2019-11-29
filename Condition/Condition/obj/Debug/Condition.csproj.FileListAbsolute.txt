@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Condition\Condition\obj\Debug\Condition.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Condition\Condition\obj\Debug\Condition.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Condition\Condition\bin\Debug\Condition.exe.config
+C:\Users\David\source\repos\Condition\Condition\bin\Debug\Condition.exe
+C:\Users\David\source\repos\Condition\Condition\bin\Debug\Condition.pdb
+C:\Users\David\source\repos\Condition\Condition\obj\Debug\Condition.exe
+C:\Users\David\source\repos\Condition\Condition\obj\Debug\Condition.pdb

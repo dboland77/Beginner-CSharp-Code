@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\ImportingAudio\ImportingAudio\bin\Debug\ImportingAudio.exe.config
+C:\Users\David\source\repos\ImportingAudio\ImportingAudio\bin\Debug\ImportingAudio.exe
+C:\Users\David\source\repos\ImportingAudio\ImportingAudio\bin\Debug\ImportingAudio.pdb
+C:\Users\David\source\repos\ImportingAudio\ImportingAudio\obj\Debug\ImportingAudio.Form1.resources
+C:\Users\David\source\repos\ImportingAudio\ImportingAudio\obj\Debug\ImportingAudio.Properties.Resources.resources
+C:\Users\David\source\repos\ImportingAudio\ImportingAudio\obj\Debug\ImportingAudio.csproj.GenerateResource.cache
+C:\Users\David\source\repos\ImportingAudio\ImportingAudio\obj\Debug\ImportingAudio.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ImportingAudio\ImportingAudio\obj\Debug\ImportingAudio.exe
+C:\Users\David\source\repos\ImportingAudio\ImportingAudio\obj\Debug\ImportingAudio.pdb

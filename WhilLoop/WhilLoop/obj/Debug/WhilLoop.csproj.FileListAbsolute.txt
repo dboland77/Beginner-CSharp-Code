@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\WhilLoop\WhilLoop\bin\Debug\WhilLoop.exe.config
+C:\Users\David\source\repos\WhilLoop\WhilLoop\bin\Debug\WhilLoop.exe
+C:\Users\David\source\repos\WhilLoop\WhilLoop\bin\Debug\WhilLoop.pdb
+C:\Users\David\source\repos\WhilLoop\WhilLoop\obj\Debug\WhilLoop.csprojAssemblyReference.cache
+C:\Users\David\source\repos\WhilLoop\WhilLoop\obj\Debug\WhilLoop.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\WhilLoop\WhilLoop\obj\Debug\WhilLoop.exe
+C:\Users\David\source\repos\WhilLoop\WhilLoop\obj\Debug\WhilLoop.pdb

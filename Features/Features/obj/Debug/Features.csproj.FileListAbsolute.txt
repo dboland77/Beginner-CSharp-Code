@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Features\Features\bin\Debug\Features.exe.config
+C:\Users\David\source\repos\Features\Features\bin\Debug\Features.exe
+C:\Users\David\source\repos\Features\Features\bin\Debug\Features.pdb
+C:\Users\David\source\repos\Features\Features\obj\Debug\Features.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Features\Features\obj\Debug\Features.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Features\Features\obj\Debug\Features.exe
+C:\Users\David\source\repos\Features\Features\obj\Debug\Features.pdb

@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Constant_APP\Constant_APP\bin\Debug\Constant_APP.exe.config
+C:\Users\David\source\repos\Constant_APP\Constant_APP\bin\Debug\Constant_APP.exe
+C:\Users\David\source\repos\Constant_APP\Constant_APP\bin\Debug\Constant_APP.pdb
+C:\Users\David\source\repos\Constant_APP\Constant_APP\obj\Debug\Constant_APP.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Constant_APP\Constant_APP\obj\Debug\Constant_APP.exe
+C:\Users\David\source\repos\Constant_APP\Constant_APP\obj\Debug\Constant_APP.pdb
+C:\Users\David\source\repos\Constant_APP\Constant_APP\obj\Debug\Constant_APP.csprojAssemblyReference.cache

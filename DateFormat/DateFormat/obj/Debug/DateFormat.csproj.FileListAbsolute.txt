@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\DateFormat\DateFormat\bin\Debug\DateFormat.exe.config
+C:\Users\David\source\repos\DateFormat\DateFormat\bin\Debug\DateFormat.exe
+C:\Users\David\source\repos\DateFormat\DateFormat\bin\Debug\DateFormat.pdb
+C:\Users\David\source\repos\DateFormat\DateFormat\obj\Debug\DateFormat.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\DateFormat\DateFormat\obj\Debug\DateFormat.exe
+C:\Users\David\source\repos\DateFormat\DateFormat\obj\Debug\DateFormat.pdb

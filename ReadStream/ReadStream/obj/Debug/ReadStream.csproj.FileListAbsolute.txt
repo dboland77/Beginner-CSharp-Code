@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\ReadStream\ReadStream\bin\Debug\ReadStream.exe.config
+C:\Users\David\source\repos\ReadStream\ReadStream\bin\Debug\ReadStream.exe
+C:\Users\David\source\repos\ReadStream\ReadStream\bin\Debug\ReadStream.pdb
+C:\Users\David\source\repos\ReadStream\ReadStream\obj\Debug\ReadStream.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ReadStream\ReadStream\obj\Debug\ReadStream.exe
+C:\Users\David\source\repos\ReadStream\ReadStream\obj\Debug\ReadStream.pdb

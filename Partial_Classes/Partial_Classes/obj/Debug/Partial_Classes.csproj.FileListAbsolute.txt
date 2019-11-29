@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\Partial_Classes\Partial_Classes\bin\Debug\Partial_Classes.exe.config
+C:\Users\David\source\repos\Partial_Classes\Partial_Classes\bin\Debug\Partial_Classes.exe
+C:\Users\David\source\repos\Partial_Classes\Partial_Classes\bin\Debug\Partial_Classes.pdb
+C:\Users\David\source\repos\Partial_Classes\Partial_Classes\obj\Debug\Partial_Classes.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Partial_Classes\Partial_Classes\obj\Debug\Partial_Classes.exe
+C:\Users\David\source\repos\Partial_Classes\Partial_Classes\obj\Debug\Partial_Classes.pdb

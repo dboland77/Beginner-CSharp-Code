@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\ReadText\ReadText\bin\Debug\ReadText.exe.config
+C:\Users\David\source\repos\ReadText\ReadText\bin\Debug\ReadText.exe
+C:\Users\David\source\repos\ReadText\ReadText\bin\Debug\ReadText.pdb
+C:\Users\David\source\repos\ReadText\ReadText\obj\Debug\ReadText.csprojAssemblyReference.cache
+C:\Users\David\source\repos\ReadText\ReadText\obj\Debug\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ReadText\ReadText\obj\Debug\ReadText.exe
+C:\Users\David\source\repos\ReadText\ReadText\obj\Debug\ReadText.pdb

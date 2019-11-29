@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\System Dialogs\System Dialogs\bin\Debug\System Dialogs.exe.config
+C:\Users\David\source\repos\System Dialogs\System Dialogs\bin\Debug\System Dialogs.exe
+C:\Users\David\source\repos\System Dialogs\System Dialogs\bin\Debug\System Dialogs.pdb
+C:\Users\David\source\repos\System Dialogs\System Dialogs\obj\Debug\System Dialogs.csprojAssemblyReference.cache
+C:\Users\David\source\repos\System Dialogs\System Dialogs\obj\Debug\System_Dialogs.Form1.resources
+C:\Users\David\source\repos\System Dialogs\System Dialogs\obj\Debug\System_Dialogs.Properties.Resources.resources
+C:\Users\David\source\repos\System Dialogs\System Dialogs\obj\Debug\System Dialogs.csproj.GenerateResource.cache
+C:\Users\David\source\repos\System Dialogs\System Dialogs\obj\Debug\System Dialogs.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\System Dialogs\System Dialogs\obj\Debug\System Dialogs.exe
+C:\Users\David\source\repos\System Dialogs\System Dialogs\obj\Debug\System Dialogs.pdb

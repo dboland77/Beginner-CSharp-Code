@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Debugging\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\David\source\repos\Debugging\Debugging\bin\Debug\Debugging.exe
+C:\Users\David\source\repos\Debugging\Debugging\bin\Debug\Debugging.pdb
+C:\Users\David\source\repos\Debugging\Debugging\obj\Debug\Debugging.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Debugging\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Debugging\Debugging\obj\Debug\Debugging.exe
+C:\Users\David\source\repos\Debugging\Debugging\obj\Debug\Debugging.pdb

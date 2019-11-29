@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\FirstFormsApp\FirstFormsApp\bin\Debug\FirstFormsApp.exe.config
+C:\Users\David\source\repos\FirstFormsApp\FirstFormsApp\bin\Debug\FirstFormsApp.exe
+C:\Users\David\source\repos\FirstFormsApp\FirstFormsApp\bin\Debug\FirstFormsApp.pdb
+C:\Users\David\source\repos\FirstFormsApp\FirstFormsApp\obj\Debug\FirstFormsApp.csprojAssemblyReference.cache
+C:\Users\David\source\repos\FirstFormsApp\FirstFormsApp\obj\Debug\FirstFormsApp.Properties.Resources.resources
+C:\Users\David\source\repos\FirstFormsApp\FirstFormsApp\obj\Debug\FirstFormsApp.csproj.GenerateResource.cache
+C:\Users\David\source\repos\FirstFormsApp\FirstFormsApp\obj\Debug\FirstFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\FirstFormsApp\FirstFormsApp\obj\Debug\FirstFormsApp.exe
+C:\Users\David\source\repos\FirstFormsApp\FirstFormsApp\obj\Debug\FirstFormsApp.pdb
+C:\Users\David\source\repos\FirstFormsApp\FirstFormsApp\obj\Debug\FirstFormsApp.Form1.resources

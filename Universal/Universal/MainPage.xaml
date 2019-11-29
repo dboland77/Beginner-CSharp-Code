@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="Universal.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Universal"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel x:Name="MainStack" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Image x:Name="Image" Width= "300" Height = "200" Source="/Assets/Lotto.jpg" Opacity="0.5" >
+            </Image>
+
+            <StackPanel x:Name="Controls" Orientation ="Vertical" VerticalAlignment="Center">
+                <StackPanel x:Name="Labels" Orientation="Horizontal">
+                    <TextBlock x:Name="textBlock1" Text=" ..." Width=" 20" Margin="15"/>
+                    <TextBlock x:Name="textBlock2" Text=" ..." Width=" 20" Margin="15"/>
+                    <TextBlock x:Name="textBlock3" Text=" ..." Width=" 20" Margin="15"/>
+                    <TextBlock x:Name="textBlock4" Text=" ..." Width=" 20" Margin="15"/>
+                    <TextBlock x:Name="textBlock5" Text=" ..." Width=" 20" Margin="15"/>
+                    <TextBlock x:Name="textBlock6" Text=" ..." Width=" 20" Margin="15"/>
+
+                </StackPanel>
+
+                <StackPanel x:Name="Buttons" Orientation="Horizontal">
+                    <Button x:Name="BtnPick" Content="Get My Lucky Numbers" Margin="15" IsEnabled="True" Click="BtnPick_Click"/>
+                    <Button x:Name="BtnReset" Content="Reset" IsEnabled="False" Click="BtnReset_Click"/>
+
+
+
+                </StackPanel>
+            </StackPanel>
+
+        </StackPanel>
+
+    </Grid>
+</Page>

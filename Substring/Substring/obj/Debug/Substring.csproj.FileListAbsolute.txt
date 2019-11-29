@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Substring\Substring\obj\Debug\Substring.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Substring\Substring\bin\Debug\Substring.exe.config
+C:\Users\David\source\repos\Substring\Substring\bin\Debug\Substring.exe
+C:\Users\David\source\repos\Substring\Substring\bin\Debug\Substring.pdb
+C:\Users\David\source\repos\Substring\Substring\obj\Debug\Substring.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Substring\Substring\obj\Debug\Substring.exe
+C:\Users\David\source\repos\Substring\Substring\obj\Debug\Substring.pdb

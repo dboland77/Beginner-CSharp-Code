@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Manipulate\Manipulate\bin\Debug\Manipulate.exe.config
+C:\Users\David\source\repos\Manipulate\Manipulate\bin\Debug\Manipulate.exe
+C:\Users\David\source\repos\Manipulate\Manipulate\bin\Debug\Manipulate.pdb
+C:\Users\David\source\repos\Manipulate\Manipulate\obj\Debug\Manipulate.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Manipulate\Manipulate\obj\Debug\Manipulate.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Manipulate\Manipulate\obj\Debug\Manipulate.exe
+C:\Users\David\source\repos\Manipulate\Manipulate\obj\Debug\Manipulate.pdb

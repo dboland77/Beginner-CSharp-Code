@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\KeyValue\KeyValue\bin\Debug\KeyValue.exe.config
+C:\Users\David\source\repos\KeyValue\KeyValue\bin\Debug\KeyValue.exe
+C:\Users\David\source\repos\KeyValue\KeyValue\bin\Debug\KeyValue.pdb
+C:\Users\David\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue.exe
+C:\Users\David\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue.pdb

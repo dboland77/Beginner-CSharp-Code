@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\Logic\Logic\bin\Debug\Logic.exe.config
+C:\Users\David\source\repos\Logic\Logic\bin\Debug\Logic.exe
+C:\Users\David\source\repos\Logic\Logic\bin\Debug\Logic.pdb
+C:\Users\David\source\repos\Logic\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Logic\Logic\obj\Debug\Logic.exe
+C:\Users\David\source\repos\Logic\Logic\obj\Debug\Logic.pdb

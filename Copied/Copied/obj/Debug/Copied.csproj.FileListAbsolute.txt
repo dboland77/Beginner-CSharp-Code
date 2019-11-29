@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Copied\Copied\bin\Debug\Copied.exe.config
+C:\Users\David\source\repos\Copied\Copied\bin\Debug\Copied.exe
+C:\Users\David\source\repos\Copied\Copied\bin\Debug\Copied.pdb
+C:\Users\David\source\repos\Copied\Copied\obj\Debug\Copied.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Copied\Copied\obj\Debug\Copied.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Copied\Copied\obj\Debug\Copied.exe
+C:\Users\David\source\repos\Copied\Copied\obj\Debug\Copied.pdb

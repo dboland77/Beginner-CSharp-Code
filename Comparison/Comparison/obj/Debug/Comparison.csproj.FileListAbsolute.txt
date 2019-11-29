@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\Comparison\Comparison\bin\Debug\Comparison.exe.config
+C:\Users\David\source\repos\Comparison\Comparison\bin\Debug\Comparison.exe
+C:\Users\David\source\repos\Comparison\Comparison\bin\Debug\Comparison.pdb
+C:\Users\David\source\repos\Comparison\Comparison\obj\Debug\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Comparison\Comparison\obj\Debug\Comparison.exe
+C:\Users\David\source\repos\Comparison\Comparison\obj\Debug\Comparison.pdb

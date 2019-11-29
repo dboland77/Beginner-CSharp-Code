@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\Refactoring\Refactoring\bin\Debug\Refactoring.exe.config
+C:\Users\David\source\repos\Refactoring\Refactoring\bin\Debug\Refactoring.exe
+C:\Users\David\source\repos\Refactoring\Refactoring\bin\Debug\Refactoring.pdb
+C:\Users\David\source\repos\Refactoring\Refactoring\obj\Debug\Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Refactoring\Refactoring\obj\Debug\Refactoring.exe
+C:\Users\David\source\repos\Refactoring\Refactoring\obj\Debug\Refactoring.pdb

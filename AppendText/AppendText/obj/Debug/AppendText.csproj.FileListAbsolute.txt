@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\AppendText\AppendText\obj\Debug\AppendText.csprojAssemblyReference.cache
+C:\Users\David\source\repos\AppendText\AppendText\obj\Debug\AppendText.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\AppendText\AppendText\bin\Debug\AppendText.exe.config
+C:\Users\David\source\repos\AppendText\AppendText\bin\Debug\AppendText.exe
+C:\Users\David\source\repos\AppendText\AppendText\bin\Debug\AppendText.pdb
+C:\Users\David\source\repos\AppendText\AppendText\obj\Debug\AppendText.exe
+C:\Users\David\source\repos\AppendText\AppendText\obj\Debug\AppendText.pdb

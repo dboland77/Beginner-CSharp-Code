@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\Menus\Menus\bin\Debug\Menus.exe.config
+C:\Users\David\source\repos\Menus\Menus\bin\Debug\Menus.exe
+C:\Users\David\source\repos\Menus\Menus\bin\Debug\Menus.pdb
+C:\Users\David\source\repos\Menus\Menus\obj\Debug\Menus.Form1.resources
+C:\Users\David\source\repos\Menus\Menus\obj\Debug\Menus.Properties.Resources.resources
+C:\Users\David\source\repos\Menus\Menus\obj\Debug\Menus.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Menus\Menus\obj\Debug\Menus.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Menus\Menus\obj\Debug\Menus.exe
+C:\Users\David\source\repos\Menus\Menus\obj\Debug\Menus.pdb
+C:\Users\David\source\repos\Menus\Menus\obj\Debug\Menus.csprojAssemblyReference.cache

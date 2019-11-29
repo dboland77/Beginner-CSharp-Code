@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\CheckBoxAndRadioButton\CheckBoxAndRadioButton\bin\Debug\CheckBoxAndRadioButton.exe.config
+C:\Users\David\source\repos\CheckBoxAndRadioButton\CheckBoxAndRadioButton\bin\Debug\CheckBoxAndRadioButton.exe
+C:\Users\David\source\repos\CheckBoxAndRadioButton\CheckBoxAndRadioButton\bin\Debug\CheckBoxAndRadioButton.pdb
+C:\Users\David\source\repos\CheckBoxAndRadioButton\CheckBoxAndRadioButton\obj\Debug\CheckBoxAndRadioButton.Form1.resources
+C:\Users\David\source\repos\CheckBoxAndRadioButton\CheckBoxAndRadioButton\obj\Debug\CheckBoxAndRadioButton.Properties.Resources.resources
+C:\Users\David\source\repos\CheckBoxAndRadioButton\CheckBoxAndRadioButton\obj\Debug\CheckBoxAndRadioButton.csproj.GenerateResource.cache
+C:\Users\David\source\repos\CheckBoxAndRadioButton\CheckBoxAndRadioButton\obj\Debug\CheckBoxAndRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\CheckBoxAndRadioButton\CheckBoxAndRadioButton\obj\Debug\CheckBoxAndRadioButton.exe
+C:\Users\David\source\repos\CheckBoxAndRadioButton\CheckBoxAndRadioButton\obj\Debug\CheckBoxAndRadioButton.pdb
+C:\Users\David\source\repos\CheckBoxAndRadioButton\CheckBoxAndRadioButton\obj\Debug\CheckBoxAndRadioButton.csprojAssemblyReference.cache

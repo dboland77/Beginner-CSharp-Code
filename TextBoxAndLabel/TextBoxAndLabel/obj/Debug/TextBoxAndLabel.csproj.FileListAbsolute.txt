@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\TextBoxAndLabel\TextBoxAndLabel\bin\Debug\TextBoxAndLabel.exe.config
+C:\Users\David\source\repos\TextBoxAndLabel\TextBoxAndLabel\bin\Debug\TextBoxAndLabel.exe
+C:\Users\David\source\repos\TextBoxAndLabel\TextBoxAndLabel\bin\Debug\TextBoxAndLabel.pdb
+C:\Users\David\source\repos\TextBoxAndLabel\TextBoxAndLabel\obj\Debug\TextBoxAndLabel.Form1.resources
+C:\Users\David\source\repos\TextBoxAndLabel\TextBoxAndLabel\obj\Debug\TextBoxAndLabel.Properties.Resources.resources
+C:\Users\David\source\repos\TextBoxAndLabel\TextBoxAndLabel\obj\Debug\TextBoxAndLabel.csproj.GenerateResource.cache
+C:\Users\David\source\repos\TextBoxAndLabel\TextBoxAndLabel\obj\Debug\TextBoxAndLabel.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\TextBoxAndLabel\TextBoxAndLabel\obj\Debug\TextBoxAndLabel.exe
+C:\Users\David\source\repos\TextBoxAndLabel\TextBoxAndLabel\obj\Debug\TextBoxAndLabel.pdb

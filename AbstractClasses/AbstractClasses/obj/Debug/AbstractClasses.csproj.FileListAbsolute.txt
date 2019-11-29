@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\David\source\repos\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\David\source\repos\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\David\source\repos\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\David\source\repos\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\David\source\repos\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb

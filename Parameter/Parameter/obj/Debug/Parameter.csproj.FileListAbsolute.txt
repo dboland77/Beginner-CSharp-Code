@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\Parameter\Parameter\bin\Debug\Parameter.exe.config
+C:\Users\David\source\repos\Parameter\Parameter\bin\Debug\Parameter.exe
+C:\Users\David\source\repos\Parameter\Parameter\bin\Debug\Parameter.pdb
+C:\Users\David\source\repos\Parameter\Parameter\obj\Debug\Parameter.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Parameter\Parameter\obj\Debug\Parameter.exe
+C:\Users\David\source\repos\Parameter\Parameter\obj\Debug\Parameter.pdb

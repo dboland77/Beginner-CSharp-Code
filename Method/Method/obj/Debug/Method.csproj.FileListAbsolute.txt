@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Method\Method\obj\Debug\Method.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Method\Method\bin\Debug\Method.exe.config
+C:\Users\David\source\repos\Method\Method\bin\Debug\Method.exe
+C:\Users\David\source\repos\Method\Method\bin\Debug\Method.pdb
+C:\Users\David\source\repos\Method\Method\obj\Debug\Method.exe
+C:\Users\David\source\repos\Method\Method\obj\Debug\Method.pdb
